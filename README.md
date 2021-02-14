@@ -78,7 +78,7 @@ Demo API REST creada con .NET COre 3.1 utilizando varias entidades ER y conectad
 MS Sql Virtualizada sobre Fedora 32  y Virtualbox 6.1. Aplicación con fines educativos.
 ```
 
-#### 2. Link a un demo con el proyecto desplegado: https://github.com/Steelnox/UD27_EricPastor/tree/main/UD27_Ej2
+#### 2. Link a un demo con el proyecto desplegado: https://github.com/Steelnox/UD28_EricPastor/tree/main/UD27_Ej2
 
 ```
 * Nombre de la App: [GIT] (https://github.com/)
@@ -149,7 +149,7 @@ Demo API REST creada con .NET COre 3.1 utilizando varias entidades ER y conectad
 MS Sql Virtualizada sobre Fedora 32  y Virtualbox 6.1. Aplicación con fines educativos.
 ```
 
-#### 2. Link a un demo con el proyecto desplegado: https://github.com/Steelnox/UD27_EricPastor/tree/main/UD27_Ej3
+#### 2. Link a un demo con el proyecto desplegado: https://github.com/Steelnox/UD28_EricPastor/tree/main/UD27_Ej3
 
 ```
 * Nombre de la App: [GIT] (https://github.com/)
@@ -226,7 +226,7 @@ Demo API REST creada con .NET COre 3.1 utilizando varias entidades ER y conectad
 MS Sql Virtualizada sobre Fedora 32  y Virtualbox 6.1. Aplicación con fines educativos.
 ```
 
-#### 2. Link a un demo con el proyecto desplegado: https://github.com/Steelnox/UD27_EricPastor/tree/main/UD27_Ej4
+#### 2. Link a un demo con el proyecto desplegado: https://github.com/Steelnox/UD28_EricPastor/tree/main/UD27_Ej4
 
 ```
 * Nombre de la App: [GIT] (https://github.com/)
