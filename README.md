@@ -1,4 +1,4 @@
-# UD27_EricPastor_Ej1
+# UD28_EricPastor_Ej1
 
 
 #### 1. Description
@@ -7,7 +7,7 @@ Demo API REST creada con .NET COre 3.1 utilizando varias entidades ER y conectad
 MS Sql Virtualizada sobre Fedora 32  y Virtualbox 6.1. Aplicación con fines educativos.
 ```
 
-#### 2. Link a un demo con el proyecto desplegado: https://github.com/Steelnox/UD27_EricPastor/tree/main/UD27_Ej1
+#### 2. Link a un demo con el proyecto desplegado: https://github.com/Steelnox/UD28_EricPastor/tree/main/UD27_Ej1
 
 ```
 * Nombre de la App: [GIT] (https://github.com/)
@@ -28,6 +28,8 @@ SO                Fedora 32
 Install-Package Microsoft.VisualStudio.Web.CodeGeneration.Design  -Version 3.1.4
 Install-Package Microsoft.EntityFrameworkCore.Tools               -Version 3.1.8
 Install-Package Microsoft.EntityFrameworkCore.SqlServer           -Version 3.1.8
+Install-Package System.IdentityModel.Tokens.Jwt                   -Version 5.6.0
+Install-Package Microsoft.AspNetCore.Authentication.JwtBearer     -Version 3.1.8
 ```
 ###### Cadena de Conexión Base de datos 
 ```
@@ -58,13 +60,16 @@ POST      /api/Suministras
 GET       /api/Suministras/{id}
 PUT       /api/Suministras/{id}
 DELETE    /api/Suministras/{id}
+
+Token
+POST     /api/Token
 ```
 
 #### 5. Screenshot imagen que indique cómo debe verse el proyecto.
-![image](https://user-images.githubusercontent.com/11030691/107878815-5b131a00-6ed5-11eb-9729-6044e9e6c177.png)
+![image](https://user-images.githubusercontent.com/11030691/107885900-1a2efb80-6efd-11eb-8fa3-783c9470ea0e.png)
 
 
-# UD27_EricPastor_Ej2
+# UD28_EricPastor_Ej2
 
 
 #### 1. Description
@@ -94,6 +99,8 @@ SO                Fedora 32
 Install-Package Microsoft.VisualStudio.Web.CodeGeneration.Design  -Version 3.1.4
 Install-Package Microsoft.EntityFrameworkCore.Tools               -Version 3.1.8
 Install-Package Microsoft.EntityFrameworkCore.SqlServer           -Version 3.1.8
+Install-Package System.IdentityModel.Tokens.Jwt                   -Version 5.6.0
+Install-Package Microsoft.AspNetCore.Authentication.JwtBearer     -Version 3.1.8
 ```
 ###### Cadena de Conexión Base de datos 
 ```
@@ -124,12 +131,16 @@ POST      /api/Asignados_a
 GET       /api/Asignados_a/{id}
 PUT       /api/Asignados_a/{id}
 DELETE    /api/Asignados_a/{id}
+
+Token
+POST     /api/Token
 ```
 
 #### 5. Screenshot imagen que indique cómo debe verse el proyecto.
-![image](https://user-images.githubusercontent.com/11030691/107881387-70437500-6ee4-11eb-9587-9fae2768dcc1.png)
+![image](https://user-images.githubusercontent.com/11030691/107886414-ec978180-6eff-11eb-8987-5e49f687a43c.png)
 
-# UD27_EricPastor_Ej3
+
+# UD28_EricPastor_Ej3
 
 
 #### 1. Description
@@ -159,6 +170,8 @@ SO                Fedora 32
 Install-Package Microsoft.VisualStudio.Web.CodeGeneration.Design  -Version 3.1.4
 Install-Package Microsoft.EntityFrameworkCore.Tools               -Version 3.1.8
 Install-Package Microsoft.EntityFrameworkCore.SqlServer           -Version 3.1.8
+Install-Package System.IdentityModel.Tokens.Jwt                   -Version 5.6.0
+Install-Package Microsoft.AspNetCore.Authentication.JwtBearer     -Version 3.1.8
 ```
 ###### Cadena de Conexión Base de datos 
 ```
@@ -196,12 +209,15 @@ POST      /api/Venta
 GET       /api/Venta/{id}
 PUT       /api/Venta/{id}
 DELETE    /api/Venta/{id}
+
+Token
+POST     /api/Token
 ```
 
 #### 5. Screenshot imagen que indique cómo debe verse el proyecto.
-![image](https://user-images.githubusercontent.com/11030691/107883441-43e12600-6eef-11eb-9425-93162e455513.png)
+![image](https://user-images.githubusercontent.com/11030691/107886611-21580880-6f01-11eb-9957-44c6dd4468e5.png)
 
-# UD27_EricPastor_Ej4
+# UD28_EricPastor_Ej4
 
 
 #### 1. Description
@@ -231,6 +247,8 @@ SO                Fedora 32
 Install-Package Microsoft.VisualStudio.Web.CodeGeneration.Design  -Version 3.1.4
 Install-Package Microsoft.EntityFrameworkCore.Tools               -Version 3.1.8
 Install-Package Microsoft.EntityFrameworkCore.SqlServer           -Version 3.1.8
+Install-Package System.IdentityModel.Tokens.Jwt                   -Version 5.6.0
+Install-Package Microsoft.AspNetCore.Authentication.JwtBearer     -Version 3.1.8
 ```
 ###### Cadena de Conexión Base de datos 
 ```
@@ -268,8 +286,11 @@ POST      /api/Reservas
 GET       /api/Reservas/{id}
 PUT       /api/Reservas/{id}
 DELETE    /api/Reservas/{id}
+
+Token
+POST     /api/Token
 ```
 
 #### 5. Screenshot imagen que indique cómo debe verse el proyecto.
-![image](https://user-images.githubusercontent.com/11030691/107884420-49416f00-6ef5-11eb-8aff-44359c235cd0.png)
+![image](https://user-images.githubusercontent.com/11030691/107887000-6f6e0b80-6f03-11eb-8a91-8aaaa9e0db79.png)
 
